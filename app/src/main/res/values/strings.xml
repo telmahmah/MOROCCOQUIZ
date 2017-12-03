@@ -1,0 +1,30 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Morocco Quiz</string>
+    <string name="starting">How well do you know Morocco ?</string>
+    <string name="attention"> Be careful, certain questions are really tricky!</string>
+    <string name="continent_q">In witch cotinent is Morocco :</string>
+    <string name="type">your answer only in CAPITAL letters</string>
+    <string name="capital_q">The capital of Morocco is: </string>
+    <string name="casa">Casablanca</string>
+    <string name="rabat">Rabat</string>
+    <string name="fez">Fez</string>
+    <string name="marrakech">Marrakech</string>
+    <string name="is_city_q">Is a city in Morocco: </string>
+    <string name="tanger">Tangier</string>
+    <string name="dakhla">Dakhla</string>
+    <string name="oujda">Oujda</string>
+    <string name="melilia">melilia</string>
+    <string name="is_king_q">The actual King of Morocco is: </string>
+    <string name="cinq">Mohammed V</string>
+    <string name="six">Mohammed VI</string>
+    <string name="deux">Mohammed II</string>
+    <string name="ali">Mohammed Ali</string>
+    <string name="your_name">Please enter your name:</string>
+    <string name="name">Please enter your name:</string>
+    <string name="submit">Submit Answers</string>
+    <string name="retake">Do It Again</string>
+    <string name="result1"><xliff:g id="User">%s</xliff:g> Your score is <xliff:g id="points">%d</xliff:g> out of 6. \"You know nothing about Morocco, Please plan a trip\"</string>
+    <string name="result2"><xliff:g id="User">%s</xliff:g> Your score is <xliff:g id="points">%d</xliff:g> out of 6. \"Hmm…You may need a map\"</string>
+    <string name="result3"><xliff:g id="User">%s</xliff:g> Your score is <xliff:g id="points">%d</xliff:g> out of 6. \“You are good, but not enough.\”</string>
+    <string name="result4"><xliff:g id="User">%s</xliff:g> Your score is <xliff:g id="points">%d</xliff:g> out of 6. \"You are a real Moroccan.\"</string>
+</resources>

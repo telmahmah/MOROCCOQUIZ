@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="question">20sp</dimen>
+    <dimen name="bradio_margins">5dp</dimen>
+    <dimen name="top">10dp</dimen>
+    <dimen name="Title_text">25sp</dimen>
+    <dimen name="button_text">20sp</dimen>
+
+</resources>
